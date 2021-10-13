@@ -3,7 +3,7 @@
 <B>Guilherme Henrique Zampronio;</b></br>
 Estudante de Ciência da Computação, UNESP Campus Rio Claro.
 ## Sobre o projeto
-Este projeto foi proposto no final da disciplina <b>"Algoritmos e Técnicas de Programação I"</b>. Tal disciplina foi o primeiro contato com uma linguagem de programação na faculdade, portanto esse projeto visou demonstrar todo o conteúdo básico relacionado a programação aprendido durante toda a disciplina. Como dito anteriormente esse foi um dos meus primeiros contatos com programação e por este motivo ele está confuso e totalmente contra as normas de um código limpo, apesar de estar funcional =)
+Este projeto foi proposto no final da disciplina <b>"Algoritmos e Técnicas de Programação I"</b>. Tal disciplina foi o primeiro contato com uma linguagem de programação na faculdade, portanto esse projeto visou demonstrar todo o conteúdo básico relacionado a programação aprendido durante toda a disciplina. Como dito anteriormente esse foi um dos meus primeiros contatos com programação e por este motivo ele está confuso e totalmente contra as normas de um código limpo, apesar de estar funcional =)</br>
 Basicamente o projeto consiste em um sistema de uma locadora de veículos com diferentes funcionalidades que será explicado com um pouco mais de detalhes logo abaixo, ademais o docente avaliou esse projeto através da plataforma <b>Run.Codes</b> baseados nos casos de testes propostos pelo mesmo.
 
 ## Especificações do docente
@@ -57,7 +57,7 @@ O limite máximo de desconto não pode exceder a 30% do valor devido, i.e., o m�
 -   Sair: encerra o programa.
 
 ##  Casos de teste
-<b>Segue o link para download dos casos de testes propostos:</b>
+<b>Segue o link para download dos casos de testes propostos:</b></br>
 [Casos de Teste](https://drive.google.com/file/d/1IlK0Jb5WvEoeZ5KB8QWdl4-c894t6TXY/view?usp=sharing)
 
 ### Linguagem Utilizada : C
