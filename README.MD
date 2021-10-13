@@ -1,6 +1,6 @@
 ## Locadora de Veículos
 ## Autor
-<B>Guilherme Henrique Zampronio;
+<B>Guilherme Henrique Zampronio;</br>
 Estudante de Ciência da Computação, UNESP Campus Rio Claro.
 ## Sobre o projeto
 Este projeto foi proposto no final da disciplina <b>"Algoritmos e Técnicas de Programação I"</b>. Tal disciplina foi o primeiro contato com uma linguagem de programação na faculdade, portanto esse projeto visou demonstrar todo o conteúdo básico relacionado a programação aprendido durante toda a disciplina. Como dito anteriormente esse foi um dos meus primeiros contatos com programação e por este motivo ele está confuso e totalmente contra as normas de um código limpo, apesar de estar funcional =)
